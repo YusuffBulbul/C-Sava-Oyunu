@@ -1,0 +1,30 @@
+# Object dosyaları
+*.o
+*.obj
+
+# Precompiled header dosyaları
+*.gch
+
+# Statik kütüphaneler
+*.a
+*.lib
+
+# Paylaşılan (dynamic) kütüphaneler
+*.so
+*.dylib
+*.dll
+
+# Çalıştırılabilir dosyalar
+*.exe
+*.out
+*.app
+
+# Debug ve diğer geçici dosyalar
+*.dSYM/
+*.su
+
+# Derleme/Build dizinleri
+/build/
+# Gereksiz yedek dosyalar ve editör dosyaları
+*~
+*.swp
