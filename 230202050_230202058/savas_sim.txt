@@ -1,0 +1,472 @@
+Senaryoya Ait Baslangic Bilgileri:
+
+
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler(Saldiri Gucu: 30,Savunma Gucu: 40,Saglik: 100,Kritik Vurus Sansi: 5.00)
+
+Toplam sayi: 200
+Toplam saldiri gucu: 6900
+Toplam savunma gucu: 10400
+
+Okcular(Saldiri Gucu: 40,Savunma Gucu: 20,Saglik: 80,Kritik Vurus Sansi: 10.00)
+
+Toplam sayi: 150
+Toplam saldiri gucu: 6000
+Toplam savunma gucu: 3900
+
+Suvariler(Saldiri Gucu: 50,Savunma Gucu: 30,Saglik: 120,Kritik Vurus Sansi: 7.00)
+
+Toplam sayi: 100
+Toplam saldiri gucu: 5000
+Toplam savunma gucu: 3900
+
+Kusatma Makineleri(Saldiri Gucu: 100,Savunma Gucu: 50,Saglik: 150,Kritik Vurus Sansi: 0.00)
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1250
+Toplam savunma gucu: 650
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 19150
+Insan Imparatorlugunun Toplam Savunma Gucu: 18850
+
+-------KAHRAMAN-------
+
+Fatih Sultan Mehmet ("kusatma_makinelerinin %25 "saldiri", gucu bonusu saglar)
+
+-------CANAVAR-------
+
+Ejderha ("piyadelerin %15 saldiri", gucu bonusu saglar)
+
+-------ARASTIRMA-------
+
+Savunma Ustaligi (Seviye 3): tum_birimlerin savunmasini % 30 artirir.
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri(Saldiri Gucu: 35,Savunma Gucu: 25,Saglik: 100,Kritik Vurus Sansi: 8.00)
+
+Toplam sayi: 150
+Toplam saldiri gucu: 6300
+Toplam savunma gucu: 3750
+
+Mizrakcilar(Saldiri Gucu: 45,Savunma Gucu: 20,Saglik: 90,Kritik Vurus Sansi: 5.00)
+
+Toplam sayi: 120
+Toplam saldiri gucu: 6480
+Toplam savunma gucu: 2400
+
+Varg binicileri(Saldiri Gucu: 55,Savunma Gucu: 35,Saglik: 130,Kritik Vurus Sansi: 6.00)
+
+Toplam sayi: 80
+Toplam saldiri gucu: 5280
+Toplam savunma gucu: 2800
+
+Troller(Saldiri Gucu: 70,Savunma Gucu: 40,Saglik: 200,Kritik Vurus Sansi: 5.00)
+
+Toplam sayi: 50
+Toplam saldiri gucu: 5040
+Toplam savunma gucu: 2500
+
+Ork Lejyonu Toplam Saldiri Gucu: 23100
+Ork Lejyonu Toplam Savunma Gucu: 11450
+
+-------KAHRAMAN-------
+
+Thruk Kemikkiran ("trollerin %25 "savunma", gucu bonusu saglar)
+
+-------CANAVAR-------
+
+Kara Trol ("trollerin %20 saldiri", gucu bonusu saglar)
+
+-------ARASTIRMA-------
+
+Saldiri Gelistirmesi (Seviye 2): tum_birimlerin saldiri % 20 artirir.
+
+
+
+1. Adim Bilgileri Insan Imparatorlugu Saldirisi
+
+Net Hasar: 7700
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler
+
+Toplam sayi: 200
+Toplam saldiri gucu: 6900
+Toplam savunma gucu: 10400
+Toplam saglik: 100
+
+Okcular
+
+Toplam sayi: 150
+Toplam saldiri gucu: 6000
+Toplam savunma gucu: 3900
+Toplam saglik: 80
+
+Suvariler
+
+Toplam sayi: 100
+Toplam saldiri gucu: 5000
+Toplam savunma gucu: 3900
+Toplam saglik: 120
+
+Kusatma Makineleri
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1250
+Toplam savunma gucu: 650
+Toplam saglik: 150
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 19150
+Insan Imparatorlugunun Toplam Savunma Gucu: 18850
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri
+
+Toplam sayi: 125
+Toplam saldiri gucu: 5250
+Toplam savunma gucu: 3125
+Toplam saglik: 83
+
+Mizrakcilar
+
+Toplam sayi: 102
+Toplam saldiri gucu: 5508
+Toplam savunma gucu: 2040
+Toplam saglik: 77
+
+Varg binicileri
+
+Toplam sayi: 66
+Toplam saldiri gucu: 4356
+Toplam savunma gucu: 2310
+Toplam saglik: 106
+
+Troller
+
+Toplam sayi: 42
+Toplam saldiri gucu: 4234
+Toplam savunma gucu: 2100
+Toplam saglik: 166
+
+Ork Lejyonu Toplam Saldiri Gucu: 19348
+Ork Lejyonu Toplam Savunma Gucu: 9575
+
+
+
+2. Adim Bilgileri Ork Lejyonu Saldirisi
+
+Net Hasar: 497
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler
+
+Toplam sayi: 197
+Toplam saldiri gucu: 6797
+Toplam savunma gucu: 10244
+Toplam saglik: 99
+
+Okcular
+
+Toplam sayi: 149
+Toplam saldiri gucu: 5960
+Toplam savunma gucu: 3874
+Toplam saglik: 79
+
+Suvariler
+
+Toplam sayi: 99
+Toplam saldiri gucu: 4950
+Toplam savunma gucu: 3861
+Toplam saglik: 119
+
+Kusatma Makineleri
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1250
+Toplam savunma gucu: 650
+Toplam saglik: 148
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 18957
+Insan Imparatorlugunun Toplam Savunma Gucu: 18629
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri
+
+Toplam sayi: 125
+Toplam saldiri gucu: 5250
+Toplam savunma gucu: 3125
+Toplam saglik: 83
+
+Mizrakcilar
+
+Toplam sayi: 102
+Toplam saldiri gucu: 5508
+Toplam savunma gucu: 2040
+Toplam saglik: 77
+
+Varg binicileri
+
+Toplam sayi: 66
+Toplam saldiri gucu: 4356
+Toplam savunma gucu: 2310
+Toplam saglik: 106
+
+Troller
+
+Toplam sayi: 42
+Toplam saldiri gucu: 4234
+Toplam savunma gucu: 2100
+Toplam saglik: 166
+
+Ork Lejyonu Toplam Saldiri Gucu: 19348
+Ork Lejyonu Toplam Savunma Gucu: 9575
+
+
+
+3. Adim Bilgileri Insan Imparatorlugu Saldirisi
+
+Net Hasar: 9381
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler
+
+Toplam sayi: 197
+Toplam saldiri gucu: 6797
+Toplam savunma gucu: 10244
+Toplam saglik: 99
+
+Okcular
+
+Toplam sayi: 149
+Toplam saldiri gucu: 5960
+Toplam savunma gucu: 3874
+Toplam saglik: 79
+
+Suvariler
+
+Toplam sayi: 99
+Toplam saldiri gucu: 4950
+Toplam savunma gucu: 3861
+Toplam saglik: 119
+
+Kusatma Makineleri
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1250
+Toplam savunma gucu: 650
+Toplam saglik: 148
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 18957
+Insan Imparatorlugunun Toplam Savunma Gucu: 18629
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri
+
+Toplam sayi: 94
+Toplam saldiri gucu: 3948
+Toplam savunma gucu: 2350
+Toplam saglik: 59
+
+Mizrakcilar
+
+Toplam sayi: 80
+Toplam saldiri gucu: 4320
+Toplam savunma gucu: 1600
+Toplam saglik: 57
+
+Varg binicileri
+
+Toplam sayi: 49
+Toplam saldiri gucu: 3234
+Toplam savunma gucu: 1715
+Toplam saglik: 72
+
+Troller
+
+Toplam sayi: 32
+Toplam saldiri gucu: 3226
+Toplam savunma gucu: 1600
+Toplam saglik: 117
+
+Ork Lejyonu Toplam Saldiri Gucu: 14728
+Ork Lejyonu Toplam Savunma Gucu: 7265
+
+4. Tur Bilgileri Ork Lejyonu Saldirisi
+
+Insan Savunmasi ork saldirisindan daha fazla oldugundan saldiri gerceklesmedi
+
+
+
+5. Adim Bilgileri Insan Imparatorlugu Saldirisi
+
+Net Hasar: 11691
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler
+
+Toplam sayi: 197
+Toplam saldiri gucu: 6117
+Toplam savunma gucu: 9220
+Toplam saglik: 99
+
+Okcular
+
+Toplam sayi: 149
+Toplam saldiri gucu: 5364
+Toplam savunma gucu: 3487
+Toplam saglik: 79
+
+Suvariler
+
+Toplam sayi: 99
+Toplam saldiri gucu: 4455
+Toplam savunma gucu: 3475
+Toplam saglik: 119
+
+Kusatma Makineleri
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1125
+Toplam savunma gucu: 585
+Toplam saglik: 148
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 17061
+Insan Imparatorlugunun Toplam Savunma Gucu: 16766
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri
+
+Toplam sayi: 56
+Toplam saldiri gucu: 2117
+Toplam savunma gucu: 1260
+Toplam saglik: 19
+
+Mizrakcilar
+
+Toplam sayi: 51
+Toplam saldiri gucu: 2479
+Toplam savunma gucu: 918
+Toplam saglik: 25
+
+Varg binicileri
+
+Toplam sayi: 28
+Toplam saldiri gucu: 1663
+Toplam savunma gucu: 882
+Toplam saglik: 16
+
+Troller
+
+Toplam sayi: 19
+Toplam saldiri gucu: 1724
+Toplam savunma gucu: 855
+Toplam saglik: 37
+
+Ork Lejyonu Toplam Saldiri Gucu: 7982
+Ork Lejyonu Toplam Savunma Gucu: 3915
+
+6. Tur Bilgileri Ork Lejyonu Saldirisi
+
+Insan Savunmasi ork saldirisindan daha fazla oldugundan saldiri gerceklesmedi
+
+
+
+7. Adim Bilgileri Insan Imparatorlugu Saldirisi ---SAVAS SONU BILGILERI----
+
+*****INSAN IMPARATORLUGU*****
+
+-----BIRIMLER-----
+
+Piyadeler
+
+Toplam sayi: 197
+Toplam saldiri gucu: 6117
+Toplam savunma gucu: 9220
+Toplam saglik: 99
+
+Okcular
+
+Toplam sayi: 149
+Toplam saldiri gucu: 5364
+Toplam savunma gucu: 3487
+Toplam saglik: 79
+
+Suvariler
+
+Toplam sayi: 99
+Toplam saldiri gucu: 4455
+Toplam savunma gucu: 3475
+Toplam saglik: 119
+
+Kusatma Makineleri
+
+Toplam sayi: 10
+Toplam saldiri gucu: 1125
+Toplam savunma gucu: 585
+Toplam saglik: 148
+
+Insan Imparatorlugunun Toplam Saldiri Gucu: 17061
+Insan Imparatorlugunun Toplam Savunma Gucu: 16766
+
+*****ORK LEJYONU*****
+
+-----BIRIMLER-----
+
+Ork Dovusculeri
+
+Toplam sayi: 0
+Toplam saldiri gucu: 0
+Toplam savunma gucu: 0
+Toplam saglik: 0
+
+Mizrakcilar
+
+Toplam sayi: 0
+Toplam saldiri gucu: 0
+Toplam savunma gucu: 0
+Toplam saglik: 0
+
+Varg binicileri
+
+Toplam sayi: 0
+Toplam saldiri gucu: 0
+Toplam savunma gucu: 0
+Toplam saglik: 0
+
+Troller
+
+Toplam sayi: 0
+Toplam saldiri gucu: 0
+Toplam savunma gucu: 0
+Toplam saglik: 0
+
+Ork Lejyonu Toplam Saldiri Gucu: 0
+Ork Lejyonu Toplam Savunma Gucu: 0
+
+----------------------------------------INSAN IMPARATORLUGU Savasi Kazandi----------------------------------------

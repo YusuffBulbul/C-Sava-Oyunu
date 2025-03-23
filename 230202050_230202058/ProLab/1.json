@@ -1,0 +1,28 @@
+{
+    "insan_imparatorlugu": {  
+        "kahramanlar": ["Fatih_Sultan_Mehmet"],
+        "birimler": {
+            "piyadeler": 200,
+            "okcular": 150,
+            "suvariler": 100,
+            "kusatma_makineleri": 10
+        },
+        "canavarlar": ["Ejderha"],
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 3
+        }
+    },
+    "ork_legi": {
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 2
+        },
+        "canavarlar": ["Kara_Troll"],
+        "kahramanlar": ["Thruk_Kemikkiran"],
+        "birimler": {
+            "ork_dovusculeri": 150,
+            "mizrakcilar": 120,
+            "varg_binicileri": 80,
+            "troller": 50
+        }
+    }
+}
